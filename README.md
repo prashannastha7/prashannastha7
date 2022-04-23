@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashanna Bdr Shrestha
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me @ prashannabdrshrestha711@gmail.com
