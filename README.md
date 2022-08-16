@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashanna Bdr Shrestha
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django projects
+- 🌱 I’m currently learning SpringBoot
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me @ prashannabdrshrestha711@gmail.com
 
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff">
