@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashanna Bahadur Shrestha</h1>
 <h3 align="center">A Fire-fighter backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Springboot & Django**
+- 🌱 I’m currently learning **Django & NodeJS**
 
-- 👯 I’m looking to collaborate on **Springboot projects**
+- 👯 I’m looking to collaborate on **NodeJS projects**
 
 - 📫 How to reach me **prashannabdrshrestha711@gmail.com**
 
