@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashanna Bahadur Shrestha</h1>
-<h3 align="center">A backend developer from Nepal</h3>
+<h3 align="center">A Fire-fighter backend developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Django & NodeJS**
 
 - 👯 I’m looking to collaborate on **NodeJS projects**
 
-- 📫 How to reach me **prashannabdrshrestha711@gmail.com**
+- 📫 How to reach me **prashannashrestha711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
