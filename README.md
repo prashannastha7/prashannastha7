@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanna Bahadur Shrestha</h1>
-<h3 align="center">A Fire-fighter backend developer from Nepal</h3>
+<h3 align="center">A backend developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Django & NodeJS**
 
