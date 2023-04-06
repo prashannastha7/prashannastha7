@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django & NodeJS**
 
-- 👯 I’m looking to collaborate on **NodeJS projects**
+- 👯 I’m looking to collaborate on **Django and NodeJS projects**
 
 - 📫 How to reach me **prashannabdrshrestha711@gmail.com**
 
