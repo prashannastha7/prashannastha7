@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashanna Bahadur Shrestha</h1>
 <h3 align="center">A Fire-fighter backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **ASP .NET & NodeJS**
+- 🌱 I’m currently learning **ASP .NET Core & NodeJS**
 
 - 👯 I’m looking to collaborate on **NodeJS projects**
 
